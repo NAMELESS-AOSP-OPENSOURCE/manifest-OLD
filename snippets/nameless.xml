@@ -2,11 +2,11 @@
 <manifest>
 
   <remote name="pixel"
-          fetch="ssh://git@github.com/PixelExperience"
+          fetch="https://github.com/PixelExperience"
           revision="twelve" />
 
     <remote name="nameless"
-          fetch="ssh://git@github.com/Nameless-AOSP"
+          fetch="https://github.com/Nameless-AOSP"
           revision="twelve" />
 
     <remote name="nameless-gitlab"
@@ -14,15 +14,15 @@
           revision="twelve" />
 
     <remote name="arrow"
-          fetch="ssh://git@github.com/ArrowOS"
+          fetch="https://github.com/ArrowOS"
           revision="arrow-12.1" />
 
     <remote name="kscope"
-          fetch="ssh://git@github.com/Project-Kaleidoscope"
+          fetch="https://github.com/Project-Kaleidoscope"
           revision="sunflowerleaf" />
 
     <remote name="lineage"
-          fetch="ssh://git@github.com/LineageOS"
+          fetch="https://github.com/LineageOS"
           revision="lineage-19.1" />
 
   <!-- Device repos -->
